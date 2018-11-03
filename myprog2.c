@@ -2,11 +2,13 @@
 #include <stdio.h>
 int main(){
 mkdir("workspace",0755);
-mkdir("workspace/dir1",0755);
-int fd = open("workspace/dir1/file10",O_CREAT, 0755);
-mkdir("workspace/dir2",0755);
-int fd2 = open("workspace/dir2/file20",O_CREAT, 0755);
-open("workspace/file1",O_CREAT);
-symlink("workspace/dir2/file20","workspace/link1");
+chdir("workspace");
+mkdir("dir1",0755);
+mode_t mode = S_IWUSR | S_IRUSR | S_IXUSR;
+int fd = creat("dir1/file10",mode);
+mkdir("dir2",0755);
+int fd2 = creat("dir2/file20",mode);
+creat("file1",mode);
+symlink("dir2/file20","link1");
 return 0;
 }
