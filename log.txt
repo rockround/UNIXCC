@@ -1,0 +1,47 @@
+commit 26ea41974eed769a50ebd5a8f10718e6d112b2e7
+Author: Yuuki Zachary Ishimaru <yzi170030@cslinux1.utdallas.edu>
+Date:   Fri Nov 2 20:33:49 2018 -0500
+
+    Removed myprog and updated c programs
+
+commit f586b01a7d27a26e2a66de6509b8df6581c46fcb
+Author: Yuuki Zachary Ishimaru <yzi170030@cslinux1.utdallas.edu>
+Date:   Fri Nov 2 20:27:06 2018 -0500
+
+    Added myprog2.c
+
+commit b395974c5bf222e32f9a935728fe2a7a442fe063
+Author: Yuuki Zachary Ishimaru <yzi170030@cslinux1.utdallas.edu>
+Date:   Fri Nov 2 20:05:16 2018 -0500
+
+    Updated all code
+
+commit 0e2c8d11372edafc9bdbb0bbee717a5c56429c26
+Author: Yuuki Zachary Ishimaru <yzi170030@cslinux1.utdallas.edu>
+Date:   Fri Nov 2 19:29:07 2018 -0500
+
+    Added makefile
+
+commit ab8afe945706186086731afe49ea32fedc3a8f33
+Author: Yuuki Zachary Ishimaru <yzi170030@cslinux1.utdallas.edu>
+Date:   Fri Oct 26 19:25:43 2018 -0500
+
+    Added C part of programming assignment
+
+commit 1f60c614aab8399f4d88aef81be0f301bd0ef24f
+Author: Yuuki Zachary Ishimaru <yzi170030@cslinux1.utdallas.edu>
+Date:   Fri Oct 26 18:45:36 2018 -0500
+
+    Added rest of bash scripts 4.2.
+
+commit 93796d54be8df4cedfa6b8c6d228001627e016c8
+Author: Yuuki Zachary Ishimaru <yzi170030@cslinux1.utdallas.edu>
+Date:   Fri Oct 26 18:18:04 2018 -0500
+
+    Added first script for homework 4
+
+commit 91e6179ddfe6fbd80f3dcc57ee00e14422e7b3b1
+Author: rockround <zachishimaru@gmail.com>
+Date:   Fri Oct 26 18:10:11 2018 -0500
+
+    Create README.md
