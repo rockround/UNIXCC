@@ -1,5 +1,6 @@
 #!/bin/bash
-
+mkdir workspace
+cd workspace
 mkdir dir1
 touch dir1/file10 
 mkdir dir2
